@@ -54,4 +54,3 @@ For questions, problems or suggestions you can contact us via comment on the App
 Time's App! It is a third-party application made by fans and is not affiliated with Asmodee.
 
 Time's App! It is a free application but shows ads to pay developers, correct bugs, improve the application and release new versions with new features, pay the cost of the server and other intrinsic costs of the application. All donations are welcome.
-
