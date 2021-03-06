@@ -1,8 +1,8 @@
 # Privacy policy
 
-No info is collected, just needed for displaying ads. For questions, problems or suggestions you can contact us via comment on the App Store or Google Play Store.
+No info is collected, just needed for displaying ads (Android version). For questions, problems or suggestions you can contact us via comment on the App Store or Google Play Store.
 
-Learn Colors it is a free application but shows ads to pay developers, correct bugs, improve the application and release new versions with new features, pay the cost of the server and other intrinsic costs of the application. All donations are welcome.
+Learn Colors it is a free application but shows ads (Android version) to pay developers, correct bugs, improve the application and release new versions with new features, pay the cost of the server and other intrinsic costs of the application. All donations are welcome.
 
 # About the game
 With ColorApp! 🎨 you will help the little ones to learn colors. Primary colors included plus many others (up to 16 colors for fun learning).
